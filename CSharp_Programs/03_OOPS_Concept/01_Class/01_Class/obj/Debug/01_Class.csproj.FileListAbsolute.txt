@@ -1,0 +1,8 @@
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\bin\Debug\01_Class.exe.config
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\bin\Debug\01_Class.exe
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\bin\Debug\01_Class.pdb
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\obj\Debug\01_Class.csproj.AssemblyReference.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\obj\Debug\01_Class.csproj.SuggestedBindingRedirects.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\obj\Debug\01_Class.csproj.CoreCompileInputs.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\obj\Debug\01_Class.exe
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\01_Class\01_Class\obj\Debug\01_Class.pdb
