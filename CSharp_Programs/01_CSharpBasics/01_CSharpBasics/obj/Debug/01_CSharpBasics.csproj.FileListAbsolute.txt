@@ -1,0 +1,8 @@
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\bin\Debug\01_CSharpBasics.exe.config
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\bin\Debug\01_CSharpBasics.exe
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\bin\Debug\01_CSharpBasics.pdb
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\obj\Debug\01_CSharpBasics.csproj.AssemblyReference.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\obj\Debug\01_CSharpBasics.csproj.SuggestedBindingRedirects.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\obj\Debug\01_CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\obj\Debug\01_CSharpBasics.exe
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\01_CSharpBasics\01_CSharpBasics\obj\Debug\01_CSharpBasics.pdb

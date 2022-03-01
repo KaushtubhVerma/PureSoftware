@@ -1,0 +1,8 @@
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\obj\Debug\02_EvenNumber.csproj.AssemblyReference.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\obj\Debug\02_EvenNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\obj\Debug\02_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\bin\Debug\02_EvenNumber.exe.config
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\bin\Debug\02_EvenNumber.exe
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\bin\Debug\02_EvenNumber.pdb
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\obj\Debug\02_EvenNumber.exe
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\02_EvenNumber\02_EvenNumber\obj\Debug\02_EvenNumber.pdb

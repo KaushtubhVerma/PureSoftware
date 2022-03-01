@@ -1,0 +1,6 @@
+Foreign Key
+	-- Restrintion data entry comparing with reference table
+	--You can mutiple FK on table
+	--Referred table should have PK/UK
+	
+	
