@@ -1,0 +1,8 @@
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\bin\Debug\09_Abstraction.exe.config
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\bin\Debug\09_Abstraction.exe
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\bin\Debug\09_Abstraction.pdb
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\obj\Debug\09_Abstraction.csproj.AssemblyReference.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\obj\Debug\09_Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\obj\Debug\09_Abstraction.csproj.CoreCompileInputs.cache
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\obj\Debug\09_Abstraction.exe
+C:\Training\Companies_Deliverables\01_Pure_Software\Git\PureSoftware\CSharp_Programs\03_OOPS_Concept\09_Abstraction\09_Abstraction\obj\Debug\09_Abstraction.pdb

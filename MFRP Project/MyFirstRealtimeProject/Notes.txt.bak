@@ -1,0 +1,15 @@
+1. Add a new Controller EmployeeController
+2. Add a Link in Layout page
+3. Add a Employee Model Class -- > Employee
+4. Adding Connnection String in appsettings.json
+	Server: LAPTOP-QR1OKKL1\SQLEXPRESS
+5. Add Follwing packages through Nuget packaeges manager
+	1. Microsoft.EntityFrameworkCore version 3.1.22
+	2. Microsoft.EntityFrameworkCore.Tools Version 3.1.22
+	3. Microsoft.EntityFrameworkCore.SqlServe Version 3.1.22
+6. Add ApllicationDbContext class in Data folder
+7. Register ApllicationDbContext using Middleware in Startup.cs 
+8. Do DB Migration uinsg Nuget packaeges Manger Console
+	migration Commands
+	add-migration AnyNameWithotSpaces
+

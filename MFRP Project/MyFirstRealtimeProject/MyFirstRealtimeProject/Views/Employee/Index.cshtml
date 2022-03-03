@@ -1,0 +1,26 @@
+﻿<h1> Emploee Details </h1>
+
+@model IEnumerable<MyFirstRealtimeProject.Models.Employee>
+
+<div style="padding-bottom:25px; padding-top:25px">
+    <a class="btn btn-primary" asp-controller="Employee" asp-action="Create">Add New Employee</a>
+</div>
+
+<table class="table table-dark">
+
+    <tr>
+        <th> Id </th>
+        <th> Name </th>
+        <th> Designation </th>
+    </tr>
+
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td> @employee.Id </td>
+            <td>@employee.Name </td>
+            <td>@employee.Designation</td>
+        </tr>
+    }
+
+</table>
