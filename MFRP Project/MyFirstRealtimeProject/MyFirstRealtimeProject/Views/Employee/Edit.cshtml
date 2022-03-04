@@ -1,0 +1,44 @@
+﻿<h1>Edit Employee Details </h1>
+
+@model MyFirstRealtimeProject.Models.Employee
+
+<form method="post" asp-controller="Employee" asp-action="Edit">
+
+    <table class="table table-dark">
+       
+        <tr>
+            <th> Id </th>
+            <td> <input asp-for="Id" disabled /> 
+            </td>
+        </tr>
+
+
+        <tr>
+
+            <th> Name </th>
+            <td> 
+                <input asp-for="Name" />
+                <span class="text-danger" asp-validation-for="Name"></span>
+                </td>
+        </tr>
+        <tr>
+            <th> Designation </th>
+            <td>
+               <select asp-for="Designation">
+                   <option value="">Please Select </option>
+                   <option value="Software Engineer">Software Engineer</option>
+                   <option value="Sr. Software Engineer">Sr. Software Engineer</option>
+                   <option value="Team Leader">Team Leader</option>
+                   <option value="Engineering Manager">Engineering Manager</option>
+               </select>
+               <span class="text-danger" asp-validation-for="Designation"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input class="btn btn-primary" type="submit" value="Submit"/>
+                <a class="btn btn-danger" asp-controller="Employee" asp-action="Index"> Cancel</a>
+            </td>
+        </tr>
+    </table>
+</form>

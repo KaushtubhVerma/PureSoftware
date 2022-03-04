@@ -1,0 +1,11 @@
+﻿<h1> Delete Employee </h1>
+@model MyFirstRealtimeProject.Models.Employee
+
+<h1> Caompany Name == @ViewData["company"] </h1>
+<h1>Place == @ViewBag.City </h1>
+<h3>Hi, are you sure want to delete Employee @Model.Name who's id is @Model.Id </h3>
+
+<div style="padding-top:20px">
+    <a class="btn btn-primary" asp-controller="Employee" asp-action="DeleteEmployee" asp-route-id="@Model.Id"> Yes </a>
+    <a class="btn btn-danger" asp-controller="Employee" asp-action="Index"> No </a>
+</div>

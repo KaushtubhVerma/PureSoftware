@@ -76,3 +76,5 @@ C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRea
 C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRealtimeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRealtimeProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRealtimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRealtimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\afzal\OneDrive\Desktop\DeletePrograms\MyFirstRealtimeProject\MyFirstRealtimeProject\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
