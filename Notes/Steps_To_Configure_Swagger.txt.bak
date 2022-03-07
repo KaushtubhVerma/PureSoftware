@@ -1,0 +1,27 @@
+1. Add a Package 
+	Swashbuckle.AspNetCore of latest version
+	
+	
+2. Register the packages Starup.cs file ConfigureServices method
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddControllers();
+
+            //To Configure Swagger
+            services.AddSwaggerGen();
+        }
+		
+3. Register the packages Starup.cs file Configure method
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            //To Configure Swagger
+            app.UseSwagger();
+            app.UseSwaggerUI(s => s.SwaggerEndpoint("/swagger/v1/swagger.json","MyProjectName"));
+        }
+		
+EmployeeController	
+
+[HttpGet]	GetllAll
+[HttpPost]	AddEmployee
+[HttpPut]	UpdateEmpoloyee
+[HttpDelete]	DeleteEmployee

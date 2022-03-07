@@ -1,0 +1,7 @@
+1. Add following Nuget Packages for CoreWebAPI solution (version 3.1.22)
+=========================================================
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore.SqlServer
+Swashbuckle.AspNetCore --> For Swagger Generation (Latest Geration)
+
